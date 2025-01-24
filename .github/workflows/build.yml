@@ -2,6 +2,6 @@
 ---
 include:
   - BOARD := QMK_PM2040
-    shield: _left
+    shield: left
   - BOARD := QMK_PM2040
-    shield: _right
+    shield: right
