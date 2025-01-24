@@ -1,0 +1,7 @@
+#
+---
+include:
+  - BOARD := QMK_PM2040
+    shield: _left
+  - BOARD := QMK_PM2040
+    shield: _right
