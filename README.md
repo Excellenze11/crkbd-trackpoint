@@ -1,4 +1,4 @@
-# crkbd trackpoint
+# crkbd trackpoint 
 
 ![crkbd trackpoint](images/cover.jpg)
 
